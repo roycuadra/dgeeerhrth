@@ -1,0 +1,26 @@
+{
+  "data": {
+    "headlines": [
+      {
+        "title": "Listed Property",
+        "value": "34,536",
+        "percentage": 32
+      },
+      {
+        "title": "Serving Cities",
+        "value": "642",
+        "percentage": 24
+      },
+      {
+        "title": "Online Visitors",
+        "value": "99,762",
+        "percentage": 81
+      },
+      {
+        "title": "Online Queries",
+        "value": "101,364",
+        "percentage": 43
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+[build]
+  base = "api/"
+  functions = "functions/"
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.environment]
+  NODE_ENV = "production"
